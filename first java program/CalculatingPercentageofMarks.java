@@ -17,6 +17,6 @@ public class CalculatingPercentageofMarks {
         tmax=tmax1+tmax2+tmax3;
         per=(total/tmax)*100;
         System.out.println("your percentage is "+per);
-        //calc
+        //calculation
     }
 }
